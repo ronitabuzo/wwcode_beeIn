@@ -1,0 +1,30 @@
+,EmployeeID,Question_or_Concern,Anonymous,Timestamp,Sentiment,keyword,keyword_count
+0,10000,Not all the floors have access ramps. I cannot use the wheelchair to get to all parts of the office,True,4/1/2018,neg,wheelchair,3
+1,10019,People don't make room for my wheelchair to get into the lift,False,5/1/2018,neg,wheelchair,3
+2,10026,There are not enough wheelchair friendly cubicles to use the bathroom,True,6/1/2018,neg,wheelchair,3
+3,10009,There is no flexibility in my working schedule so I cannot take care of my children,False,7/1/2018,neg,flexible,1
+4,10012,I have no time for my family,True,4/1/2018,neg,time,2
+5,10013,I hate that there are too many evening calls,False,5/1/2018,neg,hate,1
+6,10015,I need to work from home to take care of my kid but my boss wants me to always be in the office,True,6/1/2018,neg,boss,8
+7,10016,I feel my boss thinks I don't put in as much effort because I have a child to take care of,False,7/1/2018,neg,boss,8
+8,10043,Technology Training Opportunities are being fairly given to everyone,True,4/1/2018,pos,opportunity,5
+9,10050,I am being passed over for promotion opportunities,False,5/1/2018,neg,opportunity,5
+10,10053,My boss does not allow me opportunities to participate in new projects or technologies,True,6/1/2018,neg,boss,8
+11,10054,My boss does not include me when they try new tools,False,7/1/2018,neg,boss,8
+12,10069,I feel that my colleagues think I am not up to date on new developments,True,4/1/2018,neg,colleague,9
+13,10058,I feel that my colleagues don't listen to my ideas,False,5/1/2018,neg,colleague,9
+14,10061,All my colleagues are male and they don't include me in meetings,True,6/1/2018,neg,colleague,9
+15,10063,My colleagues always interrupt me in meetings,False,7/1/2018,neg,colleague,9
+16,10079,My boss takes credit for my ideas,True,4/1/2018,neg,boss,8
+17,10080,People don't take me seriously when I present my ideas but my male colleagues are not treated this way,False,5/1/2018,neg,colleague,9
+18,10085,My colleagues always swear and don't respect me,True,6/1/2018,neg,colleague,9
+19,10086,There is respect for women in this office,False,7/1/2018,pos,respect,4
+20,10089,I feel that my boss does not want to give me opportunities to work with the customer because I am gay,True,4/1/2018,neg,boss,8
+21,10089,I feel that I did not get the promotion opportunity because I am gay,False,5/1/2018,neg,opportunity,5
+22,10093,My Chinese colleagues respect my racial traditions,True,6/1/2018,pos,colleague,9
+23,10094,My boss will not allow me to take a holiday for my traditional ritual,False,7/1/2018,neg,boss,8
+24,10095,My Western colleagues insult my beliefs,True,4/1/2018,neg,colleague,9
+25,10011,I cannot get time off to to my traditional rituals,False,5/1/2018,neg,traditional,4
+26,10012,My boss insults my traditions,True,6/1/2018,neg,boss,8
+27,10093,I am happy that my colleagues respect me,False,7/1/2018,pos,colleague,9
+28,10061,It is good that I am included in the meetings,False,7/1/2018,pos,include,3
